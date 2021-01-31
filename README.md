@@ -1,1 +1,1 @@
-# perfect-number
+完全数を判定するプログラムをGolangで書いていきます。
